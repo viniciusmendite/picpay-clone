@@ -12,6 +12,7 @@ import {
 
 import Suggestions from '../../components/Suggestions';
 import Activities from '../../components/Activities';
+import Tips from '../../components/Tips';
 
 const Home = () => {
   return (
@@ -32,6 +33,7 @@ const Home = () => {
         </Header>
         <Suggestions />
         <Activities />
+        <Tips />
       </Container>
     </Wrapper>
   );
