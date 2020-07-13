@@ -52,7 +52,6 @@ export default () => {
         },
         activeTintColor: '#fff',
         inactiveTintColor: '#92929c',
-        keyboardHidesTabBar: true,
       }}
     >
       <Tab.Screen name="Home" component={Home} options={{ title: 'Início' }} />
