@@ -10,7 +10,8 @@ const Banner = () => {
       <Details>
         <Title>Cobre um amigo</Title>
         <Description>
-          Mnatenha suas parcerias em dia, use o PicPay parafazer suas cobranças.
+          Mantenha suas parcerias em dia, use o PicPay para fazer suas
+          cobranças.
         </Description>
       </Details>
       <Img source={img13} />
